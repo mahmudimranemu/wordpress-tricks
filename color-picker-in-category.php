@@ -1,3 +1,4 @@
+<?php
 /**
  * Add new colorpicker field to "Add new Category" screen
  * - https://developer.wordpress.org/reference/hooks/taxonomy_add_form_fields/
